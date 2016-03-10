@@ -1,0 +1,68 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	width: 90%;
+	margin: 0 auto;
+}
+	
+
+#header { 
+	overflow:auto;
+	background-color:#000000;
+	border:double;
+	font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-size:60px;
+	text-align:center;
+	color: white;	
+}
+
+#nav, #header {
+	margin: 1%;	
+}
+
+#nav{
+	padding-left:18%;
+	background-color: grey;
+	padding-bottom:1%;
+	padding-top:1%;
+	border:double;
+	border-color:white;
+	
+	
+}
+
+.text{
+	float:inherit;
+	margin: 1%;
+	
+}
+
+.larticlet, .carticlea{
+	width: 72.7%;
+	margin:1%;
+}
+
+.larticlep, .carticleb{
+	width:24.2%;
+	height:20px;
+	margin: 1%;
+}
+	
+.lorem {
+	width: 98.7%;
+	margin:1%;
+}
+
+.particlea, .particleb, .articlea, .articleb, .lorem, 
+.larticlet, .larticlep, .carticlea, .carticleb {
+	background-color:#3b5998;
+}
+
+.larticlet{
+	float: right;
+	margin: 1%;
+	
+	
+}
+	
