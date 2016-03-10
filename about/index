@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title> Cyber Burger Home</title>
+<link href="cb.css" rel="stylesheet" type="text/css">
+<link href="cbgrid.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div class="container_12 clearfix">
+    <div id="header" class="grid_12">
+<header>
+<h1> CYBER BURGER </h1>
+</header>
+</div>
+<div id="nav" class="grid_12">
+	<nav>
+    	<button><a href="Index.html"> Cyber Burger </a></button>
+        <button><a href="Menu/index.html"> Menu</a></button>
+        <button><a href="About/index.html"> About </a></button>
+        <button><a href="Locations/index.html"> Locations </a></button>
+        
+      
+    </nav>
+    </div>
+  <style>
+   a:link{ color:black}
+	a:visited{ color:#00aced}
+	</style>
+     <div class="carticlea grid_3">
+   	<p> Column1 </p>
+   </div>
+   <div class="carticleb grid_9">
+   	<p> Column 2 </p>
+   <div class="omj"> <img src="Images/umm.jpg"></div>
+    
+    
+  
+ 
+   </div>
+
+<meta check page 82>
+</div><!-- .container_12 -->
+</body>
+</html>
