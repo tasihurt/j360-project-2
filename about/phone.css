@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.container {
+	width:640px;
+	margin: 4%;
+}
+.particlea, .particleb, .articlea, .articleb, .lorem, 
+.larticlet, .larticlep, .carticlea, .carticleb {
+	width: 100%;
+	float: left;
+	display: block;
+}
